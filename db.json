@@ -1,0 +1,70 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "singupusers": [
+    {
+      "fullname": "Jena West",
+      "mobilenumber": 63812862700,
+      "email": "xicodaliso@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "id": 1
+    },
+    {
+      "fullname": "Idola Haynes",
+      "mobilenumber": 6021234561,
+      "email": "badik@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "id": 2
+    },
+    {
+      "fullname": "Adrian Weaver",
+      "mobilenumber": 6381286210,
+      "email": "voho@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "id": 3
+    },
+    {
+      "fullname": "Adrian Weaver",
+      "mobilenumber": 6381286210,
+      "email": "voho@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "id": 4
+    },
+    {
+      "fullname": "Ariana Mueller",
+      "mobilenumber": 467,
+      "email": "gacuruqud@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "id": 5
+    },
+    {
+      "fullname": "Elvis Harrington",
+      "mobilenumber": 234567899,
+      "email": "bovi@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "id": 6
+    },
+    {
+      "fullname": "Regina William",
+      "mobilenumber": 680,
+      "email": "wegaja@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "id": 7
+    },
+    {
+      "fullname": "Sara Daniel",
+      "mobilenumber": 2454675879,
+      "email": "dehogopi@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "id": 8
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
